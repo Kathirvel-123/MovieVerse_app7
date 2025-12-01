@@ -69,17 +69,13 @@ const SearchPage = () => {
   <>
     <Navbar />
     <main className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-black text-white">
-  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 lg:py-16">
-      
-    
+  <div className="w-full px-4 sm:px-6 lg:px-10 py-8 sm:py-12 lg:py-16">
 
-
-    <div className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-black text-white p-6">
 
       <h1 className="text-2xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl font-black text-center mb-6 xs:mb-8 sm:mb-10 md:mb-12 tracking-tight[-0.05em] xs:tracking-tighter bg-gradient-to-r from-purple-600 via-purple-600 to-purple-600 bg-clip-text text-transparent drop-shadow-sm xs:drop-shadow-lg sm:drop-shadow-xl md:drop-shadow-2xl hover:[text-shadow:0_0_20px_rgba(168,85,247,0.6)] transition-all duration-300 hover:scale-[1.02] animate-pulse-motion">
 
 
-      🎬 MovieVerse
+         🎬 MovieVerse
       </h1>
      
 
@@ -134,7 +130,7 @@ const SearchPage = () => {
         </div>
       )}
     </div>
-    </div>
+
     </main>
     </>
   );
