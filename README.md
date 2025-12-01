@@ -55,7 +55,7 @@ public/
 
 1. **Clone this repo:**
     ```
-    git clone https://github.com/your-username/movieverse.git
+    git clone https://github.com/Kathirvel-123/MovieVerse_app7.git
     ```
 
 2. **Install dependencies:**
