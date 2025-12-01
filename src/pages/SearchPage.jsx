@@ -79,7 +79,7 @@ const SearchPage = () => {
       <h1 className="text-2xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl font-black text-center mb-6 xs:mb-8 sm:mb-10 md:mb-12 tracking-tight[-0.05em] xs:tracking-tighter bg-gradient-to-r from-purple-600 via-purple-600 to-purple-600 bg-clip-text text-transparent drop-shadow-sm xs:drop-shadow-lg sm:drop-shadow-xl md:drop-shadow-2xl hover:[text-shadow:0_0_20px_rgba(168,85,247,0.6)] transition-all duration-300 hover:scale-[1.02] animate-pulse-motion">
 
 
-        MovieVerse
+      🎬 MovieVerse
       </h1>
      
 
