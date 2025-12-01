@@ -7,10 +7,10 @@ const Navbar = () => {
   return (
     <>
       <nav className="bg-gray-900 border-b border-purple-700 shadow-lg">
-        <div className="max-w-6xl mx-auto px-4">
+        <div className="w-full px-4 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="text-xl font-bold text-white">
-              🎬 MovieVerse
+               🎬  MovieVerse
             </div>
             <div className="hidden md:flex space-x-8">
               <button
